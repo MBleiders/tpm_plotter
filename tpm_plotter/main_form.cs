@@ -25,7 +25,7 @@ namespace tpm_plotter
         static string returndata;
 
         public static string ip_address = "192.168.0.122";
-        //public static string ip_address = "10.0.3.136";
+        //public static string ip_address = "10.0.3.136"; //test
         public static string port = "7176";
 
         public static string meas_unit = "dBm";
